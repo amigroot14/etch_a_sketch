@@ -12,7 +12,7 @@ pickColorBtn=document.getElementById('pick-color-btn')
 resetColorBtn=document.getElementById('reset-color-btn')
 
 // -----####-----Initial Load/DOM Load-----####-----
-updateGrid(5)
+updateGrid(20)
 effect()
 // -----xxxx----------xxxx----------xxxx-----
 
